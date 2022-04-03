@@ -1,7 +1,3 @@
-—--
-title: ThatIsBug
-date: 2022-04-04
-
 title: ThatIsBug page
 author: ThatIsBug
 email: your-email@domain.com
@@ -16,4 +12,3 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
-—--
